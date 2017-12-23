@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Final Project - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Tayyab\AppData\Local\Temp\RSPDE10.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Final Project.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Tayyab\Desktop\Parhai\2nd Semester\CP\Final Project\Final Project\documentClass.cpp"
+"C:\Users\Tayyab\Desktop\Parhai\2nd Semester\CP\Final Project\Final Project\LinkedList.cpp"
+"C:\Users\Tayyab\Desktop\Parhai\2nd Semester\CP\Final Project\Final Project\RankingModelClass.cpp"
+]
+Creating command line "cl.exe @C:\Users\Tayyab\AppData\Local\Temp\RSPDE10.tmp" 
+Creating temporary file "C:\Users\Tayyab\AppData\Local\Temp\RSPDE11.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Final Project.pdb" /debug /machine:I386 /out:"Debug/Final Project.exe" /pdbtype:sept 
+".\Debug\documentClass.obj"
+".\Debug\globalF.obj"
+".\Debug\IndexClass.obj"
+".\Debug\LinkedList.obj"
+".\Debug\main.obj"
+".\Debug\queryClass.obj"
+".\Debug\RankingModelClass.obj"
+".\Debug\SearchIndexClass.obj"
+".\Debug\Stemming.obj"
+]
+Creating command line "link.exe @C:\Users\Tayyab\AppData\Local\Temp\RSPDE11.tmp"
+<h3>Output Window</h3>
+Compiling...
+documentClass.cpp
+LinkedList.cpp
+RankingModelClass.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Final Project.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
